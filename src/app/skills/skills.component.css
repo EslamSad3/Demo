@@ -1,0 +1,28 @@
+
+
+
+.skills{
+    text-transform: uppercase;
+}
+
+.fucos{
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+    width: 30%;
+    text-align: center;
+}
+
+.progress{
+    height: 50px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border-radius: 0;
+    
+}
+
+.progress-bar{
+    text-align: left;
+    padding: 5px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
